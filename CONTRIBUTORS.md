@@ -182,7 +182,7 @@ Replace `YOUR_GITHUB_USERNAME`, `Your Name`, `YOUR_X_HANDLE`, and the role/proje
 				alt="X"
 		/></a>
 		<br />
-		<sub>Researcher — PetChain</sub>
+		<sub>Researcher — PetChain, CurrentDao</sub>
 	</div>
 
 	<div
