@@ -11,7 +11,7 @@ Thank you to everyone who has contributed to Stellar Wave Hub! Add yourself belo
 
 **Template:**
 
-````html
+```html
 <div
 	style="display:inline-block;width:130px;vertical-align:top;text-align:center;margin:8px"
 >
@@ -39,6 +39,15 @@ Thank you to everyone who has contributed to Stellar Wave Hub! Add yourself belo
 	<br />
 	<sub>Role — Project 1, Project 2</sub>
 </div>
+```
+
+Replace `YOUR_GITHUB_USERNAME`, `Your Name`, `YOUR_X_HANDLE`, and the role/projects line. List all the projects you contributed (comma-separated). Remove the X badge if you don't have one.
+
+**Example:**
+
+```
+<sub>Researcher — StellarPay, LumenSwap, AquaDEX</sub>
+```
 
 ## Contributors List
 
@@ -175,7 +184,6 @@ Thank you to everyone who has contributed to Stellar Wave Hub! Add yourself belo
 		<br />
 		<sub>Researcher — PetChain</sub>
 	</div>
-
 	<div
 		style="display:inline-block;width:130px;vertical-align:top;text-align:center;margin:8px"
 	>
@@ -203,11 +211,10 @@ Thank you to everyone who has contributed to Stellar Wave Hub! Add yourself belo
 		<br />
 		<sub>Researcher — Trustless Work Smart Escrow</sub>
 	</div>
-
 	<!-- Add your <div> above this line -->
 </div>
 <!-- CONTRIBUTORS-END -->
-````
+```
 
 ## Roles
 
